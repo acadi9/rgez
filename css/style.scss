@@ -496,7 +496,7 @@ a:focus {
       align-items: center;
 
       img {
-        width: 55px;
+        width: 70px;   //why 동그라미 안에 이미지 사이즈 변경 55->70
         height: auto;
         fill: $primary2;
       }
