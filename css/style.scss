@@ -335,15 +335,15 @@ a:focus {
 
   @keyframes upDown {
     0% {
-      transform: translateY(-45px);
+      transform: translateY(-20px);
     }
 
     50% {
-      transform: translateY(45px);
+      transform: translateY(20px);
     }
 
     100% {
-      transform: translateY(-45px);
+      transform: translateY(-20px);
     }
   }
 
